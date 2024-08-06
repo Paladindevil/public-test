@@ -18,3 +18,5 @@ Next, copy the branch protection rules from the template. Download the [branch p
 To import these rules to your new repo, browse to your new repo and go to `Settings -> Rules -> Rulesets`, then choose `Import Ruleset` and import from the JSON file you just downloaded.
 
 These branch protection rules are designed for a gitflow workflow. For further details see [here](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
+
+Bla bla bla
