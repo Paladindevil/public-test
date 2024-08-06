@@ -20,3 +20,5 @@ To import these rules to your new repo, browse to your new repo and go to `Setti
 These branch protection rules are designed for a gitflow workflow. For further details see [here](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
 
 Bla bla bla
+
+Bla bla bla v2
